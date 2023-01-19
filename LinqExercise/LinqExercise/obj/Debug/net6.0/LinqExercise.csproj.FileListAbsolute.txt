@@ -1,0 +1,15 @@
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\bin\Debug\net6.0\LinqExercise.exe
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\bin\Debug\net6.0\LinqExercise.deps.json
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\bin\Debug\net6.0\LinqExercise.runtimeconfig.json
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\bin\Debug\net6.0\LinqExercise.dll
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\bin\Debug\net6.0\LinqExercise.pdb
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\obj\Debug\net6.0\LinqExercise.csproj.AssemblyReference.cache
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\obj\Debug\net6.0\LinqExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\obj\Debug\net6.0\LinqExercise.AssemblyInfoInputs.cache
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\obj\Debug\net6.0\LinqExercise.AssemblyInfo.cs
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\obj\Debug\net6.0\LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\obj\Debug\net6.0\LinqExercise.dll
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\obj\Debug\net6.0\refint\LinqExercise.dll
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\obj\Debug\net6.0\LinqExercise.pdb
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\obj\Debug\net6.0\LinqExercise.genruntimeconfig.cache
+C:\Users\stron\Desktop\repos2\LinqExercise\LinqExercise\obj\Debug\net6.0\ref\LinqExercise.dll
